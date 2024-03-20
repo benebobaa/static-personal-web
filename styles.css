@@ -412,7 +412,7 @@ input[type='text']::placeholder, input[type='email']::placeholder,::placeholder 
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 181px;
+    margin-top: 21px;
 }
 .hero-section .content {
     padding-top: 64px;
@@ -1385,7 +1385,7 @@ input[type='text']::placeholder, input[type='email']::placeholder,::placeholder 
     /* HERO */
     .hero-section .container {
         flex-wrap: wrap;
-        margin-top: 93px;
+        margin-top: 6px;
         padding: 0 56px;
     }
     .hero-section .content {
